@@ -2,7 +2,7 @@
 Carga un archivo específico y genera una tabla con una gráfica (Clase de BDA).
 
 <div align="center">
-  <img src="https://github.com/Ethan-Rivas/Proyecto-BDA/images/bda.png">
+  <img src="https://raw.githubusercontent.com/Ethan-Rivas/Proyecto-BDA/main/images/bda.png">
 </div>
 
 # Requerimentos
